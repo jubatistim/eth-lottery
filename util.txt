@@ -1,0 +1,3 @@
+npm install solc@0.8.9 web3 mocha ganache-cli @truffle/hdwallet-provider
+
+npm i dotenv
